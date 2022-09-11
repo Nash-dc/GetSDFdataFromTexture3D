@@ -1,4 +1,4 @@
-# GetSDFdataFromTexture3D
+# Get SDF data from Texture3D
 This script is able to get real SDF data from Texture 3D in Unity3D,and serilize it into a Json file.
 
 
